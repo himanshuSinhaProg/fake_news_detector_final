@@ -1,6 +1,6 @@
 # fake_news_detector_final
 Dataset on which the model was trained:https://www.kaggle.com/competitions/fake-news/data
-Deployed on:
+Deployed on: https://fakenewsdetector321.herokuapp.com/
 
 model2.pkl-is the saved model pickle file
 vectorizer.pkl is model file for vecotrizing the news content before the
